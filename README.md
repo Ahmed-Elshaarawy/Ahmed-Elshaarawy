@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Ahmed Elshaarawy and I'm a Video Game Developer, from Egypt.</h2>
+<h2 align="left">Hi, I'm Ahmed Elshaarawy, a Video Game Developer dedicated to building innovative products and driven by a deep passion for Machine Learning.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elshaarawy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Elshaarawy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph"  />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=Ahmed-Elshaarawy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph"  />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs?username=Ahmed-Elshaarawy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph"  />
 </div>
 
 ###
