@@ -66,11 +66,13 @@ Day Loop is a productivity & habit-tracking app where **voice interaction is the
   <img src="https://img.shields.io/badge/Google_Play-Download_Now-34A853?style=for-the-badge&logo=google-play&logoColor=white" height="35" alt="Google Play"  />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/App_Store-Coming_Soon-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="35" alt="App Store coming soon"  />
+<a href="https://apps.apple.com/eg/app/day-loop-daily-planner/id6762482526"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/App_Store-Download_Now-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="35" alt="App Store"  />
+</a>
 
 </div>
-
----
 
 ## 🛠️ Engineering Project — awesome-curator
 
