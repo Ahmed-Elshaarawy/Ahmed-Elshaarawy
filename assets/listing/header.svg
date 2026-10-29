@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Ahmed Elshaarawy, Software Engineer, heading into Machine Learning">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Ahmed Elshaarawy, Full-Stack & Applied AI Engineer, Shipping Production Apps · Integrating AI & LLMs">
 <style>
-.f{font-family:'Segoe UI','Helvetica Neue',-apple-system,BlinkMacSystemFont,Arial,sans-serif}
+.f{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
 .spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){.spin{animation:none}}
 </style>
-<rect width="840" height="240" rx="28" fill="#14213d"/>
-<rect x="40" y="40" width="160" height="160" rx="38" fill="#fca311"/>
-<g class="spin"><circle cx="120" cy="120" r="62" fill="none" stroke="#14213d" stroke-width="7" stroke-dasharray="290 100" stroke-linecap="round"/></g>
-<text x="120" y="139" text-anchor="middle" class="f" font-size="52" font-weight="700" fill="#14213d" letter-spacing="-1">AE</text>
-<text x="236" y="112" class="f" font-size="60" font-weight="700" fill="#ffffff" letter-spacing="-1.5">Ahmed Elshaarawy</text>
-<text x="238" y="160" class="f" font-size="32" font-weight="600" fill="#fca311">Software Engineer</text>
-<text x="238" y="198" class="f" font-size="28" font-weight="400" fill="#9fb0d0">heading into Machine Learning</text>
+<rect width="840" height="240" rx="28" fill="#0b0f19" stroke="#1e293b" stroke-width="2"/>
+<rect x="40" y="40" width="160" height="160" rx="38" fill="#111827" stroke="#00f0ff" stroke-width="2"/>
+<g class="spin"><circle cx="120" cy="120" r="62" fill="none" stroke="#00f0ff" stroke-width="6" stroke-dasharray="290 100" stroke-linecap="round"/></g>
+<text x="120" y="139" text-anchor="middle" class="f" font-size="52" font-weight="700" fill="#00f0ff" letter-spacing="-1">AE</text>
+<text x="236" y="110" class="f" font-size="58" font-weight="700" fill="#f8fafc" letter-spacing="-1.5">Ahmed Elshaarawy</text>
+<text x="238" y="158" class="f" font-size="30" font-weight="600" fill="#00f0ff">Full-Stack & Applied AI Engineer</text>
+<text x="238" y="196" class="f" font-size="26" font-weight="400" fill="#94a3b8">Shipping Production Apps · Integrating AI & LLMs</text>
 </svg>

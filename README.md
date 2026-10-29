@@ -1,8 +1,14 @@
 <a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/listing/header.svg" width="100%" alt="Ahmed Elshaarawy, Software Engineer, heading into Machine Learning" />
+  <img src="./assets/listing/header.svg" width="100%" alt="Ahmed Elshaarawy, Full-Stack & Applied AI Engineer" />
 </a>
 
-**I build products end to end and ship them to real stores.** Right now that's a voice-first habit app on iOS and Android and a no-code portfolio builder on the web. Next, I'm going deep on Machine Learning with PyTorch and TensorFlow.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Shipping_Production_Apps-0b0f19?style=for-the-badge&logo=rocket&logoColor=00f0ff&labelColor=050811" height="28" alt="Status: Shipping Production Apps" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Applied_AI-0b0f19?style=for-the-badge&logo=openai&logoColor=00f0ff&labelColor=050811" height="28" alt="Focus: Full-Stack & Applied AI" />
+  <img src="https://img.shields.io/badge/Velocity-2%2C800%2B_Contributions-0b0f19?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=050811" height="28" alt="Velocity: 2,800+ Contributions" />
+</p>
+
+**I build end-to-end production software and ship it to real stores.** Right now that spans a voice-first habit app on iOS and Android, an automated multi-platform marketing engine with LLMs, and a cinematic no-code web platform. My engineering focus combines rock-solid full-stack architecture with applied AI.
 
 **Live on 2 app stores** · **13 cinematic web templates** · **5 languages incl. Arabic** · **Playwright + axe tested**
 
@@ -12,7 +18,7 @@
 <br>
 
 <a href="https://apps.apple.com/eg/app/day-loop-daily-planner/id6762482526" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/listing/banner-day-loop.svg" width="100%" alt="Day Loop: talk to your habits. Live on iOS and Android." />
+  <img src="./assets/listing/banner-day-loop.svg" width="100%" alt="Day Loop: talk to your habits. Shipped to real stores." />
 </a>
 
 A habit tracker where **voice is the core interaction**: say what you did and it's logged, so keeping a streak takes seconds.
@@ -68,11 +74,51 @@ Pick a template, fill in a form, and download a **scroll-driven, cinematic portf
 
 ### Toolkit
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,dart,js,flutter,react,nextjs,threejs,unity,pytorch,tensorflow,firebase,docker,githubactions,vercel&perline=8" alt="C#, C++, Python, Dart, JavaScript, Flutter, React, Next.js, Three.js, Unity, PyTorch, TensorFlow, Firebase, Docker, GitHub Actions, Vercel" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,dart,js,ts,flutter,react,nextjs,threejs,unity,pytorch,tensorflow,firebase,docker,githubactions,vercel&perline=8" alt="C#, C++, Python, Dart, JavaScript, TypeScript, Flutter, React, Next.js, Three.js, Unity, PyTorch, TensorFlow, Firebase, Docker, GitHub Actions, Vercel" />
 
-### A year on GitHub
+### 🏙️ 3D Contribution City Skyline
 
-<img src="./assets/city.svg" width="100%" alt="Contribution city: each building is one day of contributions over the last year" />
+<p align="center">
+  <em>An isometric 3D skyline of <b>2,893 contributions</b> over the past year — each skyscraper height and spire is rendered in real time from daily git commits.</em>
+</p>
+
+<div align="center">
+  <img src="./assets/city.svg" width="100%" alt="Contribution city: each building is one day of contributions over the last year" />
+</div>
+
+<br>
+
+### ⚡ Engineering Velocity & Stats
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Ahmed-Elshaarawy">
+    <img src="https://github-readme-stats-six-black-50.vercel.app/api?username=Ahmed-Elshaarawy&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B0F19&title_color=00F0FF&text_color=F8FAFC&icon_color=00F0FF&border_color=1E293B&border_radius=16" height="175" alt="Ahmed's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ahmed-Elshaarawy">
+    <img src="https://streak-stats.demolab.com/?user=Ahmed-Elshaarawy&background=0B0F19&border=1E293B&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=94A3B8&border_radius=16" height="175" alt="Ahmed's Streak Stats" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Ahmed-Elshaarawy">
+    <img src="https://github-readme-stats-six-black-50.vercel.app/api/top-langs?username=Ahmed-Elshaarawy&layout=compact&langs_count=6&card_width=450&bg_color=0B0F19&title_color=00F0FF&text_color=F8FAFC&border_color=1E293B&border_radius=16" height="165" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Elshaarawy/Ahmed-Elshaarawy/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Elshaarawy/Ahmed-Elshaarawy/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Ahmed-Elshaarawy/Ahmed-Elshaarawy/output/snake-dark.svg" width="100%" alt="Contribution snake animation" />
+  </picture>
+</div>
 
 <br>
 

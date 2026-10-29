@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 745 191" width="745" height="191" role="img" aria-label="2893 contributions in the last year, drawn as a city">
 <style>
-.t0{fill:#e4e8ec}.l0{fill:#a4a7aa}.r0{fill:#c4c8cb}.t1{fill:#9be9a8}.l1{fill:#70a879}.r1{fill:#85c890}.t2{fill:#40c463}.l2{fill:#2e8d47}.r2{fill:#37a955}.t3{fill:#30a14e}.l3{fill:#237438}.r3{fill:#298a43}.t4{fill:#216e39}.l4{fill:#184f29}.r4{fill:#1c5f31}
-.cap{fill:#59636e;font:500 12px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.t0{fill:#e2e8f0}.l0{fill:#a3a7ad}.r0{fill:#c2c8ce}.t1{fill:#bae6fd}.l1{fill:#86a6b6}.r1{fill:#a0c6da}.t2{fill:#38bdf8}.l2{fill:#2888b3}.r2{fill:#30a3d5}.t3{fill:#0284c7}.l3{fill:#015f8f}.r3{fill:#0272ab}.t4{fill:#0369a1}.l4{fill:#024c74}.r4{fill:#035a8a}
+.cap{fill:#0284c7;font:600 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:0.5px}
 .cap b{font-weight:700}
 .b{transform-box:fill-box;transform-origin:50% 100%;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}
 @keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
-@media (prefers-color-scheme:dark){.t0{fill:#2a313c}.l0{fill:#1e232b}.r0{fill:#242a34}.t1{fill:#196c2e}.l1{fill:#124e21}.r1{fill:#165d28}.t2{fill:#2ea043}.l2{fill:#217330}.r2{fill:#288a3a}.t3{fill:#3fb950}.l3{fill:#2d853a}.r3{fill:#369f45}.t4{fill:#56d364}.l4{fill:#3e9848}.r4{fill:#4ab556}.cap{fill:#9198a1}}
+@media (prefers-color-scheme:dark){.t0{fill:#161f30}.l0{fill:#101623}.r0{fill:#131b29}.t1{fill:#0e4b68}.l1{fill:#0a364b}.r1{fill:#0c4059}.t2{fill:#0284c7}.l2{fill:#015f8f}.r2{fill:#0272ab}.t3{fill:#38bdf8}.l3{fill:#2888b3}.r3{fill:#30a3d5}.t4{fill:#00f0ff}.l4{fill:#00adb8}.r4{fill:#00cedb}.cap{fill:#00f0ff}}
 @media (prefers-reduced-motion:reduce){.b{animation:none}}
 </style>
 <text class="cap" x="16.0" y="20.0">2,893 contributions in the last year</text>

@@ -24,9 +24,9 @@ query($login: String!) {
 
 LEVELS = ["NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE"]
 
-# Top-face colour per level; side faces are shaded from it.
-LIGHT = ["#e4e8ec", "#9be9a8", "#40c463", "#30a14e", "#216e39"]
-DARK = ["#2a313c", "#196c2e", "#2ea043", "#3fb950", "#56d364"]
+# Obsidian & Electric Cyan / Ice Blue
+LIGHT = ["#e2e8f0", "#bae6fd", "#38bdf8", "#0284c7", "#0369a1"]
+DARK = ["#161f30", "#0e4b68", "#0284c7", "#38bdf8", "#00f0ff"]
 
 U = (13.0, 0.5)    # one week to the right
 V = (-4.0, 3.0)    # one weekday toward the viewer
