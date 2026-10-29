@@ -2,49 +2,52 @@
   <a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/header.svg" width="100%" alt="Ahmed Elshaarawy — Full-Stack & Applied AI Engineer" />
   </a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfoliostudio.me-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfoliostudio.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedelshaarawyy/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am.elshaarawyy@gmail.com)
+
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Elshaarawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="Connect on LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-portfoliostudio.me-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1424" height="28" alt="portfoliostudio.me" />
-  </a>
-  &nbsp;
-  <a href="mailto:am.elshaarawyy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_touch-1e293b?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Applied_AI-0284c7?style=flat-square&logo=openai&logoColor=white&labelColor=0d1424" height="20" alt="Focus: Full-Stack & Applied AI" />
-  <img src="https://img.shields.io/badge/Shipped-iOS_%C2%B7_Android_%C2%B7_Web-0284c7?style=flat-square&logo=appstore&logoColor=white&labelColor=0d1424" height="20" alt="Shipped: iOS · Android · Web" />
-  <img src="https://img.shields.io/badge/Activity-2%2C800%2B_Annual_Commits-0284c7?style=flat-square&logo=github&logoColor=white&labelColor=0d1424" height="20" alt="Activity: 2,800+ Annual Commits" />
-</p>
+### About Me
+
+Full-stack and applied AI engineer who builds and ships complete software products. I design architecture, write the code, and ship to production — from cross-platform mobile apps on app stores to cinematic web systems.
+
+```yaml
+role: Full-Stack & Applied AI Engineer
+focus: Production Mobile & Web Systems, Applied AI/LLMs
+craft: Flutter & Firebase, Next.js & Three.js, PyTorch & TensorFlow
+current: Day Loop, Portfolio Studio, OctoGrow AI
+shipped: 2 App Stores (iOS & Android), 13 Cinematic Web Worlds, 5 Languages
+```
 
 ---
 
-### Overview
+### Shipped Products
 
-**I build production software end-to-end and ship it to real stores.** My engineering bridges rock-solid full-stack architecture, native mobile craft, and applied AI — from a voice-first daily planner in production on the App Store and Google Play to an automated marketing engine with LLMs and a 3D cinematic web platform.
-
-- **Mobile & Voice Architecture:** Production Flutter architecture shipped to **2 app stores** in **5 languages**.
-- **Cinematic Web Platforms:** Scroll-driven Three.js and Next.js systems with zero-code static generation.
-- **Applied AI & LLM Systems:** Multi-platform LLM integration, agentic workflows, and PyTorch / TensorFlow pipelines.
-- **Engineering Rigor:** Automated Playwright end-to-end testing, Vitest, and axe accessibility compliance.
+| Product | What it does | Platform / Status |
+|---|---|---|
+| **[Day Loop](https://apps.apple.com/eg/app/day-loop-daily-planner/id6762482526)** | Voice-first habit tracker & daily planner — speak to log streaks in seconds | **App Store** · **Google Play** |
+| **[Portfolio Studio](https://portfoliostudio.me)** | 13 cinematic 3D worlds, zero code — in-browser static portfolio site builder | **Live Web** |
+| **[awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator)** | Automated async repo discovery, concurrent link validation & daily updates | **Open Source (Python)** |
+| **[Masquerade Escape](https://globalgamejam.org/games/2026/masquerde-escape-9)** | 3D escape room game prototyped, programmed, and shipped in 48 hours | **Global Game Jam 2026** |
 
 ---
 
-### Featured Project: Day Loop
+### Featured Work
+
+#### Day Loop — Voice-First Habit App
 
 <a href="https://apps.apple.com/eg/app/day-loop-daily-planner/id6762482526" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/App_Store-Download-0D1117?style=for-the-badge&logo=apple&logoColor=white" height="32" alt="Download on the App Store" />
+  <img src="https://img.shields.io/badge/App_Store-Download-0D1117?style=for-the-badge&logo=apple&logoColor=white" height="30" alt="Download on the App Store" />
 </a>
 &nbsp;
 <a href="https://play.google.com/store/apps/details?id=devloopers.site.dayloop" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Android-0D1117?style=for-the-badge&logo=googleplay&logoColor=34A853" height="32" alt="Get it on Google Play" />
+  <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Android-0D1117?style=for-the-badge&logo=googleplay&logoColor=34A853" height="30" alt="Get it on Google Play" />
 </a>
 
 > **Talk to your habits.** A habit tracker where voice is the core interaction: say what you completed and it logs in seconds, eliminating manual tracking friction.
@@ -55,12 +58,12 @@
 
 `Flutter` · `Dart` · `Firebase` · `iOS` · `Android` · `Voice UX`
 
----
+<br>
 
-### Featured Project: Portfolio Studio
+#### Portfolio Studio — Cinematic Web Portfolio Engine
 
 <a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Live_Site-portfoliostudio.me-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1424" height="32" alt="Try Portfolio Studio live" />
+  <img src="https://img.shields.io/badge/Live_Site-portfoliostudio.me-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Try Portfolio Studio live" />
 </a>
 
 > **Thirteen cinematic worlds, zero code.** Pick a world, fill in a form, and download a production-ready, scroll-driven 3D portfolio site built right in the browser.
@@ -91,16 +94,55 @@
 
 ---
 
-### Open Source & Game Jam
+### What I Work With
 
-- **[awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator)** *(Open Source)*: High-throughput asynchronous Python tool that tracks trending repos by topic, validates links concurrently, and republishes verified lists daily via GitHub Actions. `Python` · `aiohttp` · `Jinja2` · `Docker`
-- **[Masquerade Escape](https://globalgamejam.org/games/2026/masquerde-escape-9)** *(Global Game Jam 2026)*: Playable 3D escape room game engineered by a multidisciplinary team in 48 hours, covering rapid prototyping, core mechanics, and interactive puzzles. `Unity` · `C#`
+<table>
+<tr>
+<td><b>Mobile & Frontend</b></td>
+<td>
 
----
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
 
-### Technical Stack
+</td>
+</tr>
+<tr>
+<td><b>AI & Machine Learning</b></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,dart,js,ts,flutter,react,nextjs,threejs,unity,pytorch,tensorflow,firebase,docker,githubactions,vercel&perline=8" alt="Technical Stack" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td><b>Backend & Cloud</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td><b>Languages & Games</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -148,7 +190,12 @@
 
 ---
 
-<p align="center">
-  <b>Building something with voice, mobile, or intelligent AI systems?</b><br>
-  Let's connect: <a href="https://www.linkedin.com/in/ahmedelshaarawyy/"><b>LinkedIn</b></a> · <a href="https://portfoliostudio.me"><b>portfoliostudio.me</b></a> · <a href="mailto:am.elshaarawyy@gmail.com"><b>am.elshaarawyy@gmail.com</b></a>
-</p>
+<div align="center">
+
+_Building production applications and intelligent systems that ship._
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/ahmedelshaarawyy/) · [Portfolio](https://portfoliostudio.me) · [Email](mailto:am.elshaarawyy@gmail.com)
+
+</div>
