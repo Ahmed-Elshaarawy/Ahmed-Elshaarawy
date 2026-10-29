@@ -1,53 +1,79 @@
-<a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/listing/header.svg" width="100%" alt="Ahmed Elshaarawy, Full-Stack & Applied AI Engineer" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/header.svg" width="100%" alt="Ahmed Elshaarawy — Full-Stack & Applied AI Engineer" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Shipping_Production_Apps-0b0f19?style=for-the-badge&logo=rocket&logoColor=00f0ff&labelColor=050811" height="28" alt="Status: Shipping Production Apps" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Applied_AI-0b0f19?style=for-the-badge&logo=openai&logoColor=00f0ff&labelColor=050811" height="28" alt="Focus: Full-Stack & Applied AI" />
-  <img src="https://img.shields.io/badge/Velocity-2%2C800%2B_Contributions-0b0f19?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=050811" height="28" alt="Velocity: 2,800+ Contributions" />
+  <a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Elshaarawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-portfoliostudio.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=080c14&labelColor=0d1424" height="28" alt="portfoliostudio.me" />
+  </a>
+  &nbsp;
+  <a href="mailto:amamra@uofcanada.edu.eg">
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-1e293b?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
+  </a>
 </p>
 
-**I build end-to-end production software and ship it to real stores.** Right now that spans a voice-first habit app on iOS and Android, an automated multi-platform marketing engine with LLMs, and a cinematic no-code web platform. My engineering focus combines rock-solid full-stack architecture with applied AI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Applied_AI-00f0ff?style=flat-square&logo=openai&logoColor=black&labelColor=0d1424" height="20" alt="Focus: Full-Stack & Applied AI" />
+  <img src="https://img.shields.io/badge/Shipped-iOS_%C2%B7_Android_%C2%B7_Web-00f0ff?style=flat-square&logo=appstore&logoColor=black&labelColor=0d1424" height="20" alt="Shipped: iOS · Android · Web" />
+  <img src="https://img.shields.io/badge/Activity-2%2C800%2B_Annual_Commits-00f0ff?style=flat-square&logo=github&logoColor=black&labelColor=0d1424" height="20" alt="Activity: 2,800+ Annual Commits" />
+</p>
 
-**Live on 2 app stores** · **13 cinematic web templates** · **5 languages incl. Arabic** · **Playwright + axe tested**
+---
 
-<a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank" rel="noopener noreferrer"><img src="./assets/listing/button-linkedin.svg" alt="Connect on LinkedIn" /></a>
-<a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer"><img src="./assets/listing/button-portfolio.svg" alt="portfoliostudio.me" /></a>
+### 🚀 What I Build
 
-<br>
+**I build production software end-to-end and ship it to real stores.** My engineering bridges rock-solid full-stack architecture, native mobile craft, and applied AI — from a voice-first daily planner in production on the App Store and Google Play to an automated marketing engine with LLMs and a 3D cinematic web platform.
+
+- 📱 **Mobile & Voice:** Production Flutter architecture shipped to **2 app stores** in **5 languages**
+- 🌐 **Cinematic Web:** Scroll-driven Three.js & Next.js systems with zero-code static generation
+- 🧠 **Applied AI:** Multi-platform LLM integration, agentic workflows, and PyTorch / TensorFlow pipelines
+- 🧪 **Engineering Rigor:** Automated Playwright end-to-end testing, Vitest, and axe accessibility compliance
+
+---
+
+### 📱 Featured: Day Loop — Voice-First Habit App
 
 <a href="https://apps.apple.com/eg/app/day-loop-daily-planner/id6762482526" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/listing/banner-day-loop.svg" width="100%" alt="Day Loop: talk to your habits. Shipped to real stores." />
+  <img src="https://img.shields.io/badge/App_Store-Download-0D1117?style=for-the-badge&logo=apple&logoColor=white" height="32" alt="Download on the App Store" />
+</a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=devloopers.site.dayloop" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Android-0D1117?style=for-the-badge&logo=googleplay&logoColor=34A853" height="32" alt="Get it on Google Play" />
 </a>
 
-A habit tracker where **voice is the core interaction**: say what you did and it's logged, so keeping a streak takes seconds.
+> **Talk to your habits.** A habit tracker where voice is the core interaction: say what you completed and it logs in seconds, eliminating manual tracking friction.
 
-- Voice-first logging and task management, with achievements, calendar sync, and streak analytics on top
-- One Flutter + Firebase codebase shipped to both the App Store and Google Play
-- Localized into English, Arabic, German, Spanish, and French
+- 🎙️ **Voice-First Logging:** Speak your habits and routines; natural voice processing parses and records actions in seconds.
+- ⚡ **Gamified Streaks & Sync:** Integrated achievement badges, interactive streak calendar, and real-time habit analytics.
+- 🌍 **Production Flutter Codebase:** One unified Flutter + Firebase codebase serving both iOS and Android, localized into English, Arabic, German, Spanish, and French.
 
-<a href="https://apps.apple.com/eg/app/day-loop-daily-planner/id6762482526" target="_blank" rel="noopener noreferrer"><img src="./assets/listing/button-app-store.svg" alt="Download on the App Store" /></a>
-<a href="https://play.google.com/store/apps/details?id=devloopers.site.dayloop" target="_blank" rel="noopener noreferrer"><img src="./assets/listing/button-google-play.svg" alt="Get it on Google Play" /></a>
+`Flutter` · `Dart` · `Firebase` · `iOS` · `Android` · `Voice UX`
 
-<sub>Flutter · Dart · Firebase · iOS · Android</sub>
+---
 
-<br>
+### 🌐 Featured: Portfolio Studio — Cinematic Web Experience
 
 <a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/listing/banner-portfolio-studio.svg" width="100%" alt="Portfolio Studio: thirteen cinematic worlds, zero code. Live on the web." />
+  <img src="https://img.shields.io/badge/Live_Site-portfoliostudio.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=080c14&labelColor=0d1424" height="32" alt="Try Portfolio Studio live" />
 </a>
 
-Pick a template, fill in a form, and download a **scroll-driven, cinematic portfolio site**. No code, no Git, no terminal.
+> **Thirteen cinematic worlds, zero code.** Pick a world, fill in a form, and download a production-ready, scroll-driven 3D portfolio site built right in the browser.
 
-- 13 templates share one `portfolio.json` schema, so your content carries over when you switch worlds
-- The site zip is built **in the browser** (JSZip), with SEO, a contact flow, and a plain-language publishing guide
-- Reduced motion or no JavaScript falls back to a clean, readable page; every template has Vitest unit tests and Playwright + axe end-to-end suites
+- 🎬 **13 Interconnected Worlds:** Every template shares one `portfolio.json` schema, allowing creators to hot-swap visual themes without re-entering data.
+- 📦 **In-Browser Bundler:** Packages the entire static site zip client-side with JSZip, complete with SEO metadata, contact flows, and deployment guides.
+- 🧪 **Accessible & Resilient:** Full reduced-motion and non-JS fallback pages, validated by automated Vitest unit test suites and Playwright + axe accessibility pipelines.
 
 <details>
-<summary><b>See all 13 templates</b></summary>
+<summary><b>Explore all 13 cinematic templates</b></summary>
+<br>
 
-| Template | The story |
+| Template | The Story |
 |---|---|
 | **Case Board** | Your career pinned to a detective's crime board |
 | **Tactics Board** | Your career as a football formation; the ball passes from role to role |
@@ -57,40 +83,40 @@ Pick a template, fill in a form, and download a **scroll-driven, cinematic portf
 | **Inside the PC** | A PC boots to a git-log career, then the camera dives to the CPU, storage and network |
 | **The Smile** | A 3D mouth with a case on each tooth |
 | **Actuarial Science** | A 3D Galton board and a curve of accrued experience |
-| **The Gallery** · **The Port** · **The Solar Farm** · **The Valley** · **The Archipelago** | …and more worlds to tell your story in |
+| **The Gallery** · **The Port** · **The Solar Farm** · **The Valley** · **The Archipelago** | …and more immersive worlds to showcase your story |
 
 </details>
 
-<a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer"><img src="./assets/listing/button-try-portfolio-studio.svg" alt="Try Portfolio Studio live" /></a>
+`Next.js` · `React` · `Three.js` · `React Three Fiber` · `Framer Motion` · `Lenis` · `JSZip` · `Vitest` · `Playwright` · `Vercel`
 
-<sub>Next.js · React · Three.js · React Three Fiber · Framer Motion · Lenis · JSZip · Vitest · Playwright · Vercel</sub>
+---
 
-<br>
+### 🛠️ Also Built
 
-### Also built
+- **[awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator)** *(Open Source)*: High-throughput asynchronous Python tool that tracks trending repos by topic, validates links concurrently, and republishes verified lists daily via GitHub Actions. `Python` · `aiohttp` · `Jinja2` · `Docker`
+- **[Masquerade Escape](https://globalgamejam.org/games/2026/masquerde-escape-9)** *(Global Game Jam 2026)*: Playable 3D escape room game engineered by a multidisciplinary team in 48 hours, covering rapid prototyping, core mechanics, and interactive puzzles. `Unity` · `C#`
 
-- **[awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator)**, open source: a Python tool that pulls trending repos by topic, validates every link asynchronously, and republishes an [awesome list](https://github.com/Ahmed-Elshaarawy/awesome-curator/blob/main/output/AWESOME.md) daily via GitHub Actions. <sub>Python · aiohttp · Jinja2 · Docker</sub>
-- **[Masquerade Escape](https://globalgamejam.org/games/2026/masquerde-escape-9)**, Global Game Jam 2026: a complete, playable escape game built by a team in 48 hours, covering gameplay programming, design, and ruthless scope cuts. <sub>Unity · C#</sub>
+---
 
-### Toolkit
+### 💻 Toolkit
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,dart,js,ts,flutter,react,nextjs,threejs,unity,pytorch,tensorflow,firebase,docker,githubactions,vercel&perline=8" alt="C#, C++, Python, Dart, JavaScript, TypeScript, Flutter, React, Next.js, Three.js, Unity, PyTorch, TensorFlow, Firebase, Docker, GitHub Actions, Vercel" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,dart,js,ts,flutter,react,nextjs,threejs,unity,pytorch,tensorflow,firebase,docker,githubactions,vercel&perline=8" alt="Technical Stack" />
+
+---
 
 ### 🏙️ 3D Contribution City Skyline
 
 <p align="center">
-  <em>An isometric 3D skyline of <b>2,893 contributions</b> over the past year — each skyscraper height and spire is rendered in real time from daily git commits.</em>
+  <em>An isometric 3D skyline of <b>2,893 contributions</b> over the past year — each skyscraper height and glowing spire is rendered in real time from daily git commits.</em>
 </p>
 
 <div align="center">
   <img src="./assets/city.svg" width="100%" alt="Contribution city: each building is one day of contributions over the last year" />
 </div>
 
-<br>
+---
 
-### ⚡ Engineering Velocity & Stats
-
-<br>
+### ⚡ Engineering Velocity & Real-Time Stats
 
 <div align="center">
   <a href="https://github.com/Ahmed-Elshaarawy">
@@ -120,8 +146,9 @@ Pick a template, fill in a form, and download a **scroll-driven, cinematic portf
   </picture>
 </div>
 
-<br>
+---
 
-**Building something with voice, mobile, or the web?** I'd like to hear about it.
-
-<a href="https://www.linkedin.com/in/ahmedelshaarawyy/" target="_blank" rel="noopener noreferrer"><img src="./assets/listing/button-linkedin.svg" alt="Connect on LinkedIn" /></a>
+<p align="center">
+  <b>Building something with voice, mobile, or intelligent AI systems?</b><br>
+  Let's connect: <a href="https://www.linkedin.com/in/ahmedelshaarawyy/"><b>LinkedIn</b></a> · <a href="https://portfoliostudio.me"><b>portfoliostudio.me</b></a> · <a href="mailto:amamra@uofcanada.edu.eg"><b>amamra@uofcanada.edu.eg</b></a>
+</p>
