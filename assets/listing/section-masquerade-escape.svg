@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 120" width="840" height="120" role="img" aria-label="Masquerade Escape: Concept to playable in 48 hours.">
+<style>
+.f{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.blink{animation:blink 1.1s steps(1) infinite}
+.rise{transform-box:fill-box;transform-origin:bottom;animation:rise 2.4s ease-in-out infinite alternate}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes rise{from{transform:scaleY(.55)}}
+@media (prefers-reduced-motion:reduce){.spin,.blink,.rise{animation:none}}
+</style>
+<rect width="840" height="120" rx="22" fill="#14213d"/>
+<rect x="20" y="16" width="88" height="88" rx="22" fill="#fca311"/>
+<g transform="translate(30 31) scale(.56)"><path d="M8 32 q52 -40 104 0 q-8 44 -52 44 q-44 0 -52 -44z" fill="#14213d"/><ellipse cx="38" cy="44" rx="13" ry="8" fill="#fca311"/><ellipse cx="82" cy="44" rx="13" ry="8" fill="#fca311"/></g>
+<text x="132" y="44" class="f" font-size="12" font-weight="700" letter-spacing="1.8" fill="#fca311">GAME JAM · UNITY</text>
+<text x="131" y="84" class="f" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="-1">Masquerade Escape</text>
+<text x="812" y="84" text-anchor="end" class="f" font-size="17" font-weight="500" fill="#9fb0d0">Concept to playable in 48 hours.</text>
+</svg>

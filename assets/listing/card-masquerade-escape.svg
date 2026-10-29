@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 360" width="200" height="360" role="img" aria-label="Masquerade Escape: Global Game Jam 2026">
+<style>
+.f{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.blink{animation:blink 1.1s steps(1) infinite}
+.rise{transform-box:fill-box;transform-origin:bottom;animation:rise 2.4s ease-in-out infinite alternate}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes rise{from{transform:scaleY(.55)}}
+@media (prefers-reduced-motion:reduce){.spin,.blink,.rise{animation:none}}
+</style>
+<rect width="200" height="360" rx="24" fill="#14213d"/>
+<text x="20" y="44" class="f" font-size="12" font-weight="700" letter-spacing="1.6" fill="#9fb0d0">UNITY · 48H</text>
+<text x="20" y="74" class="f" font-size="22" font-weight="800" fill="#ffffff" letter-spacing="-.5"><tspan x="20" dy="0">Masquerade</tspan><tspan x="20" dy="26">Escape</tspan></text>
+<g transform="translate(40 140)"><path d="M8 32 q52 -40 104 0 q-8 44 -52 44 q-44 0 -52 -44z" fill="#fca311"/><ellipse cx="38" cy="44" rx="13" ry="8" fill="#14213d"/><ellipse cx="82" cy="44" rx="13" ry="8" fill="#14213d"/></g>
+<text x="20" y="300" class="f" font-size="13" font-weight="500" fill="#ffffff">Global Game Jam 2026</text>
+<rect x="20" y="316" width="64" height="24" rx="12" fill="#fca311"/>
+<text x="52" y="333" text-anchor="middle" class="f" font-size="11" font-weight="800" fill="#14213d">VIEW</text>
+</svg>
