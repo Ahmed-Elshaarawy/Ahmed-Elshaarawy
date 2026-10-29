@@ -5,14 +5,14 @@
       <stop offset="50%" stop-color="#0d1527"/>
       <stop offset="100%" stop-color="#080c14"/>
     </linearGradient>
-    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f0ff"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
+    <linearGradient id="blue-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
     </linearGradient>
     <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.6"/>
-      <stop offset="40%" stop-color="#1e293b" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="40%" stop-color="#1e293b" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0.25"/>
     </linearGradient>
   </defs>
 
@@ -27,7 +27,7 @@
   <rect x="1" y="1" width="878" height="178" rx="16" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="1.5"/>
 
   <!-- Subtle Ambient Grid -->
-  <g opacity="0.06" stroke="#00f0ff" stroke-width="0.75">
+  <g opacity="0.05" stroke="#38bdf8" stroke-width="0.75">
     <line x1="0" y1="45" x2="880" y2="45" />
     <line x1="0" y1="90" x2="880" y2="90" />
     <line x1="0" y1="135" x2="880" y2="135" />
@@ -43,9 +43,9 @@
 
   <!-- Live telemetry badge top right -->
   <g transform="translate(710, 20)">
-    <rect width="134" height="24" rx="12" fill="#00f0ff" fill-opacity="0.08" stroke="#00f0ff" stroke-opacity="0.25" stroke-width="1"/>
-    <circle cx="16" cy="12" r="3.5" fill="#00f0ff" class="pulse"/>
-    <text x="28" y="16" class="mono" font-size="11" font-weight="600" fill="#00f0ff" letter-spacing="1">SYSTEM: ACTIVE</text>
+    <rect width="134" height="24" rx="12" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1"/>
+    <circle cx="16" cy="12" r="3.5" fill="#38bdf8" class="pulse"/>
+    <text x="28" y="16" class="mono" font-size="11" font-weight="600" fill="#38bdf8" letter-spacing="1">SYSTEM: ACTIVE</text>
   </g>
 
   <!-- Content -->
@@ -54,11 +54,11 @@
     <text x="0" y="16" class="sans" font-size="34" font-weight="800" fill="#f8fafc" letter-spacing="-0.5">Ahmed Elshaarawy</text>
     
     <!-- Role Subtitle -->
-    <text x="0" y="47" class="sans" font-size="16" font-weight="600" fill="url(#cyan-glow)" letter-spacing="0.2">Full-Stack &amp; Applied AI Engineer</text>
+    <text x="0" y="47" class="sans" font-size="16" font-weight="600" fill="url(#blue-accent)" letter-spacing="0.2">Full-Stack &amp; Applied AI Engineer</text>
     
     <!-- Terminal Command Line -->
     <text x="0" y="75" class="mono" font-size="12.5" fill="#94a3b8">
-      <tspan fill="#00f0ff">&gt;</tspan> Shipping production mobile &amp; web apps · Integrating LLMs &amp; intelligent systems
+      <tspan fill="#38bdf8">&gt;</tspan> Shipping production mobile &amp; web apps · Integrating LLMs &amp; intelligent systems
     </text>
   </g>
 </svg>

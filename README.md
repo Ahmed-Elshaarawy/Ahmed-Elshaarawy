@@ -10,18 +10,18 @@
   </a>
   &nbsp;
   <a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-portfoliostudio.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=080c14&labelColor=0d1424" height="28" alt="portfoliostudio.me" />
+    <img src="https://img.shields.io/badge/Portfolio-portfoliostudio.me-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1424" height="28" alt="portfoliostudio.me" />
   </a>
   &nbsp;
-  <a href="mailto:amamra@uofcanada.edu.eg">
+  <a href="mailto:am.elshaarawyy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_touch-1e293b?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Applied_AI-00f0ff?style=flat-square&logo=openai&logoColor=black&labelColor=0d1424" height="20" alt="Focus: Full-Stack & Applied AI" />
-  <img src="https://img.shields.io/badge/Shipped-iOS_%C2%B7_Android_%C2%B7_Web-00f0ff?style=flat-square&logo=appstore&logoColor=black&labelColor=0d1424" height="20" alt="Shipped: iOS · Android · Web" />
-  <img src="https://img.shields.io/badge/Activity-2%2C800%2B_Annual_Commits-00f0ff?style=flat-square&logo=github&logoColor=black&labelColor=0d1424" height="20" alt="Activity: 2,800+ Annual Commits" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Applied_AI-0284c7?style=flat-square&logo=openai&logoColor=white&labelColor=0d1424" height="20" alt="Focus: Full-Stack & Applied AI" />
+  <img src="https://img.shields.io/badge/Shipped-iOS_%C2%B7_Android_%C2%B7_Web-0284c7?style=flat-square&logo=appstore&logoColor=white&labelColor=0d1424" height="20" alt="Shipped: iOS · Android · Web" />
+  <img src="https://img.shields.io/badge/Activity-2%2C800%2B_Annual_Commits-0284c7?style=flat-square&logo=github&logoColor=white&labelColor=0d1424" height="20" alt="Activity: 2,800+ Annual Commits" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### Featured Project: Portfolio Studio
 
 <a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Live_Site-portfoliostudio.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=080c14&labelColor=0d1424" height="32" alt="Try Portfolio Studio live" />
+  <img src="https://img.shields.io/badge/Live_Site-portfoliostudio.me-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1424" height="32" alt="Try Portfolio Studio live" />
 </a>
 
 > **Thirteen cinematic worlds, zero code.** Pick a world, fill in a form, and download a production-ready, scroll-driven 3D portfolio site built right in the browser.
@@ -120,11 +120,11 @@
 
 <div align="center">
   <a href="https://github.com/Ahmed-Elshaarawy">
-    <img src="https://github-readme-stats-six-black-50.vercel.app/api?username=Ahmed-Elshaarawy&show_icons=true&include_all_commits=true&count_private=true&hide=stars&hide_rank=true&bg_color=0B0F19&title_color=00F0FF&text_color=F8FAFC&icon_color=00F0FF&border_color=1E293B&border_radius=16" height="175" alt="Ahmed's GitHub Stats" />
+    <img src="https://github-readme-stats-six-black-50.vercel.app/api?username=Ahmed-Elshaarawy&show_icons=true&include_all_commits=true&count_private=true&hide=stars&hide_rank=true&bg_color=0B0F19&title_color=38BDF8&text_color=F8FAFC&icon_color=38BDF8&border_color=1E293B&border_radius=16" height="175" alt="Ahmed's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ahmed-Elshaarawy">
-    <img src="https://streak-stats.demolab.com/?user=Ahmed-Elshaarawy&background=0B0F19&border=1E293B&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=94A3B8&border_radius=16" height="175" alt="Ahmed's Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Ahmed-Elshaarawy&background=0B0F19&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&border_radius=16" height="175" alt="Ahmed's Streak Stats" />
   </a>
 </div>
 
@@ -132,7 +132,7 @@
 
 <div align="center">
   <a href="https://github.com/Ahmed-Elshaarawy">
-    <img src="https://github-readme-stats-six-black-50.vercel.app/api/top-langs?username=Ahmed-Elshaarawy&layout=compact&langs_count=6&card_width=450&bg_color=0B0F19&title_color=00F0FF&text_color=F8FAFC&border_color=1E293B&border_radius=16" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats-six-black-50.vercel.app/api/top-langs?username=Ahmed-Elshaarawy&layout=compact&langs_count=6&card_width=450&bg_color=0B0F19&title_color=38BDF8&text_color=F8FAFC&border_color=1E293B&border_radius=16" height="165" alt="Top Languages" />
   </a>
 </div>
 
@@ -150,5 +150,5 @@
 
 <p align="center">
   <b>Building something with voice, mobile, or intelligent AI systems?</b><br>
-  Let's connect: <a href="https://www.linkedin.com/in/ahmedelshaarawyy/"><b>LinkedIn</b></a> · <a href="https://portfoliostudio.me"><b>portfoliostudio.me</b></a> · <a href="mailto:amamra@uofcanada.edu.eg"><b>amamra@uofcanada.edu.eg</b></a>
+  Let's connect: <a href="https://www.linkedin.com/in/ahmedelshaarawyy/"><b>LinkedIn</b></a> · <a href="https://portfoliostudio.me"><b>portfoliostudio.me</b></a> · <a href="mailto:am.elshaarawyy@gmail.com"><b>am.elshaarawyy@gmail.com</b></a>
 </p>
