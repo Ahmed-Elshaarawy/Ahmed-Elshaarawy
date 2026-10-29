@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200" role="img" aria-label="Day Loop: Talk to your habits.">
+<style>
+.f{font-family:'Segoe UI','Helvetica Neue',-apple-system,BlinkMacSystemFont,Arial,sans-serif}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.spin{animation:none}}
+</style>
+<rect width="840" height="200" rx="26" fill="#14213d"/>
+<rect x="30" y="30" width="140" height="140" rx="34" fill="#fca311"/>
+<g transform="translate(43 51) scale(.95)"><g class="spin"><circle cx="60" cy="45" r="40" fill="none" stroke="#14213d" stroke-width="10" stroke-dasharray="200 52" stroke-linecap="round"/></g><path d="M44 46 l11 11 l22 -24" fill="none" stroke="#14213d" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="202" y="72" class="f" font-size="26" font-weight="700" letter-spacing="2" fill="#fca311">LIVE  ·  iOS  ·  ANDROID</text>
+<text x="200" y="126" class="f" font-size="52" font-weight="700" fill="#ffffff" letter-spacing="-1">Day Loop</text>
+<text x="202" y="164" class="f" font-size="30" font-weight="400" fill="#9fb0d0">Talk to your habits.</text>
+</svg>
