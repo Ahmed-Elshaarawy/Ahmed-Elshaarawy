@@ -26,18 +26,18 @@
 
 ---
 
-### 🚀 What I Build
+### Overview
 
 **I build production software end-to-end and ship it to real stores.** My engineering bridges rock-solid full-stack architecture, native mobile craft, and applied AI — from a voice-first daily planner in production on the App Store and Google Play to an automated marketing engine with LLMs and a 3D cinematic web platform.
 
-- 📱 **Mobile & Voice:** Production Flutter architecture shipped to **2 app stores** in **5 languages**
-- 🌐 **Cinematic Web:** Scroll-driven Three.js & Next.js systems with zero-code static generation
-- 🧠 **Applied AI:** Multi-platform LLM integration, agentic workflows, and PyTorch / TensorFlow pipelines
-- 🧪 **Engineering Rigor:** Automated Playwright end-to-end testing, Vitest, and axe accessibility compliance
+- **Mobile & Voice Architecture:** Production Flutter architecture shipped to **2 app stores** in **5 languages**.
+- **Cinematic Web Platforms:** Scroll-driven Three.js and Next.js systems with zero-code static generation.
+- **Applied AI & LLM Systems:** Multi-platform LLM integration, agentic workflows, and PyTorch / TensorFlow pipelines.
+- **Engineering Rigor:** Automated Playwright end-to-end testing, Vitest, and axe accessibility compliance.
 
 ---
 
-### 📱 Featured: Day Loop — Voice-First Habit App
+### Featured Project: Day Loop
 
 <a href="https://apps.apple.com/eg/app/day-loop-daily-planner/id6762482526" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/App_Store-Download-0D1117?style=for-the-badge&logo=apple&logoColor=white" height="32" alt="Download on the App Store" />
@@ -49,15 +49,15 @@
 
 > **Talk to your habits.** A habit tracker where voice is the core interaction: say what you completed and it logs in seconds, eliminating manual tracking friction.
 
-- 🎙️ **Voice-First Logging:** Speak your habits and routines; natural voice processing parses and records actions in seconds.
-- ⚡ **Gamified Streaks & Sync:** Integrated achievement badges, interactive streak calendar, and real-time habit analytics.
-- 🌍 **Production Flutter Codebase:** One unified Flutter + Firebase codebase serving both iOS and Android, localized into English, Arabic, German, Spanish, and French.
+- **Voice-First Logging:** Speak your habits and routines; natural voice processing parses and records actions in seconds.
+- **Gamified Streaks & Sync:** Integrated achievement badges, interactive streak calendar, and real-time habit analytics.
+- **Production Flutter Architecture:** One unified Flutter + Firebase codebase serving both iOS and Android, localized into English, Arabic, German, Spanish, and French.
 
 `Flutter` · `Dart` · `Firebase` · `iOS` · `Android` · `Voice UX`
 
 ---
 
-### 🌐 Featured: Portfolio Studio — Cinematic Web Experience
+### Featured Project: Portfolio Studio
 
 <a href="https://portfoliostudio.me" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Live_Site-portfoliostudio.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=080c14&labelColor=0d1424" height="32" alt="Try Portfolio Studio live" />
@@ -65,9 +65,9 @@
 
 > **Thirteen cinematic worlds, zero code.** Pick a world, fill in a form, and download a production-ready, scroll-driven 3D portfolio site built right in the browser.
 
-- 🎬 **13 Interconnected Worlds:** Every template shares one `portfolio.json` schema, allowing creators to hot-swap visual themes without re-entering data.
-- 📦 **In-Browser Bundler:** Packages the entire static site zip client-side with JSZip, complete with SEO metadata, contact flows, and deployment guides.
-- 🧪 **Accessible & Resilient:** Full reduced-motion and non-JS fallback pages, validated by automated Vitest unit test suites and Playwright + axe accessibility pipelines.
+- **13 Interconnected Worlds:** Every template shares one `portfolio.json` schema, allowing creators to hot-swap visual themes without re-entering data.
+- **Client-Side Generation:** Packages the entire static site zip in-browser using JSZip, pre-configured with SEO metadata, contact flows, and deployment guides.
+- **Automated Testing & Accessibility:** Full reduced-motion and non-JS fallback pages, validated by automated Vitest unit test suites and Playwright + axe accessibility pipelines.
 
 <details>
 <summary><b>Explore all 13 cinematic templates</b></summary>
@@ -80,7 +80,7 @@
 | **Stats Board** | Your data as statistics: lecture blackboard, dashboard, or journal |
 | **The Vault** | A vault door swings open onto brass deposit boxes, one per role |
 | **The Ledger** | Roles written into a ledger with a running balance of experience |
-| **Inside the PC** | A PC boots to a git-log career, then the camera dives to the CPU, storage and network |
+| **Inside the PC** | A PC boots to a git-log career, then the camera dives into the CPU, storage and network |
 | **The Smile** | A 3D mouth with a case on each tooth |
 | **Actuarial Science** | A 3D Galton board and a curve of accrued experience |
 | **The Gallery** · **The Port** · **The Solar Farm** · **The Valley** · **The Archipelago** | …and more immersive worlds to showcase your story |
@@ -91,20 +91,20 @@
 
 ---
 
-### 🛠️ Also Built
+### Open Source & Game Jam
 
 - **[awesome-curator](https://github.com/Ahmed-Elshaarawy/awesome-curator)** *(Open Source)*: High-throughput asynchronous Python tool that tracks trending repos by topic, validates links concurrently, and republishes verified lists daily via GitHub Actions. `Python` · `aiohttp` · `Jinja2` · `Docker`
 - **[Masquerade Escape](https://globalgamejam.org/games/2026/masquerde-escape-9)** *(Global Game Jam 2026)*: Playable 3D escape room game engineered by a multidisciplinary team in 48 hours, covering rapid prototyping, core mechanics, and interactive puzzles. `Unity` · `C#`
 
 ---
 
-### 💻 Toolkit
+### Technical Stack
 
 <img src="https://skillicons.dev/icons?i=cs,cpp,py,dart,js,ts,flutter,react,nextjs,threejs,unity,pytorch,tensorflow,firebase,docker,githubactions,vercel&perline=8" alt="Technical Stack" />
 
 ---
 
-### 🏙️ 3D Contribution City Skyline
+### 3D Contribution City Skyline
 
 <p align="center">
   <em>An isometric 3D skyline of <b>2,893 contributions</b> over the past year — each skyscraper height and glowing spire is rendered in real time from daily git commits.</em>
@@ -116,11 +116,11 @@
 
 ---
 
-### ⚡ Engineering Velocity & Real-Time Stats
+### GitHub Activity & Velocity
 
 <div align="center">
   <a href="https://github.com/Ahmed-Elshaarawy">
-    <img src="https://github-readme-stats-six-black-50.vercel.app/api?username=Ahmed-Elshaarawy&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B0F19&title_color=00F0FF&text_color=F8FAFC&icon_color=00F0FF&border_color=1E293B&border_radius=16" height="175" alt="Ahmed's GitHub Stats" />
+    <img src="https://github-readme-stats-six-black-50.vercel.app/api?username=Ahmed-Elshaarawy&show_icons=true&include_all_commits=true&count_private=true&hide=stars&hide_rank=true&bg_color=0B0F19&title_color=00F0FF&text_color=F8FAFC&icon_color=00F0FF&border_color=1E293B&border_radius=16" height="175" alt="Ahmed's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ahmed-Elshaarawy">
