@@ -22,7 +22,7 @@ jobs:
       - name: Render city
         run: python scripts/city.py "${{ github.repository_owner }}" assets/city.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CITY_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit & push
         run: |
