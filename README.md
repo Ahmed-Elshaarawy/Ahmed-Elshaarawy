@@ -149,7 +149,7 @@ shipped: 2 App Stores (iOS & Android), 13 Cinematic Web Worlds, 5 Languages
 ### 3D Contribution City Skyline
 
 <p align="center">
-  <em>An isometric 3D skyline of <b>2,893 contributions</b> over the past year — each skyscraper height and glowing spire is rendered in real time from daily git commits.</em>
+  <em>An isometric 3D skyline of my <b>public contributions</b> over the past year — each skyscraper height and glowing spire is rendered in real time from daily git commits.</em>
 </p>
 
 <div align="center">
